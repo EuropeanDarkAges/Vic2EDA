@@ -1876,25 +1876,31 @@
 	clergymen = {
 		culture = spanish
 		religion = catholic
-		size = 800
+		size = 1200
 	}
 
 	artisans = {
 		culture = spanish
 		religion = catholic
-		size = 9000
+		size = 55000
+	}
+	
+	craftsmen = {
+		culture = spanish
+		religion = catholic
+		size = 10000
 	}
 
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 1100
+		size = 4100
 	}
 
 	farmers = {
 		culture = spanish
 		religion = catholic
-		size = 68500
+		size = 75500
 	}
 }
 #Huelva (140000/35000 POPS)

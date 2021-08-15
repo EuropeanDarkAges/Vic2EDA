@@ -59,6 +59,7 @@ BRG		= "countries/BRG.txt"
 LIE		= "countries/LIE.txt"
 ALC		= "countries/ALC.txt"
 DLW		= "countries/DLW.txt"
+BRT		= "countries/BRT.txt"
 
 
 # Common Great Powers
