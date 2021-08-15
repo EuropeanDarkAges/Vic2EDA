@@ -1,0 +1,3 @@
+owner = CUB
+controller = CUB
+trade_goods = fruitlife_rating = 301861.1.1 = {	owner = HON	controller = HON}

@@ -1,0 +1,5 @@
+owner = SMY
+controller = SMY
+add_core = TUR
+trade_goods = fruit
+life_rating = 35

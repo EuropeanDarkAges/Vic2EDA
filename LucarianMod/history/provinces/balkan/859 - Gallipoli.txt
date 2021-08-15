@@ -1,0 +1,6 @@
+owner = LMN
+controller = LMN
+add_core = LMN
+add_core = TUR
+trade_goods = grain
+life_rating = 35

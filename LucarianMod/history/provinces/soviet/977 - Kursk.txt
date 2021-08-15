@@ -1,0 +1,6 @@
+owner = CRN
+controller = CRN
+add_core = HET
+add_core = RUS
+trade_goods = grain
+life_rating = 35

@@ -1,0 +1,134 @@
+#China substates
+substate = {
+	first = CHI
+	second = GXI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = MCK
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = XIN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = YNN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = CHI
+	second = XBI
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+vassal = {
+	first = CHI
+	second = TIB
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+
+substate = {
+	first = DEN
+	second = SWE
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+substate = {
+	first = DEN
+	second = NOR
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+vassal = {
+	first = DEN
+	second = HAN
+	start_date = 1836.1.1
+	end_date = 1937.1.1
+}
+
+
+############ATH##############
+
+vassal = {
+	first = BRG
+	second = LIE
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+vassal = {
+	first = BRG
+	second = ALC
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+vassal = {
+	first = BRG
+	second = VER
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+
+
+
+
+
+vassal = {
+	first = DEN
+	second = NOR
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+vassal = {
+	first = DEN
+	second = DLW
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+
+
+
+
+############ATH##############
+
+vassal = {
+	first = ATH
+	second = SPR
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+
+##############AND################
+
+
+vassal = {
+	first = AND
+	second = MOR
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+
+vassal = {
+	first = AND
+	second = AQU
+	start_date = 1836.1.1
+	end_date = 1850.1.1 #Treaty of Shimonoseki
+}
+
+#vassal = {
+#	first = CHI
+#	second = KOR
+#	start_date = 1836.1.1
+#	end_date = 1895.5.17 #Treaty of Shimonoseki
+#}
+

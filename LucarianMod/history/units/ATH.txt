@@ -1,0 +1,116 @@
+
+
+#========================= L A N D =========================
+
+army = {
+name = "Defense Forces"
+location = 834
+regiment = {
+name = "Defense Brigade"
+type = hussar
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = infantry
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = infantry
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = infantry
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = infantry
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = artillery
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = artillery
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = artillery
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = artillery
+home = 834
+}
+regiment = {
+name = "Defense Brigade"
+type = artillery
+home = 834
+}
+}
+
+
+#========================= S E A =========================
+
+navy = {
+	name = "3rd Transport Squadron"
+	location = 834 #Colombo
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
+
+#========================= Vic_Nation_Establisher by Diamond.David =========================
+

@@ -1,0 +1,5 @@
+owner = HET
+controller = HET
+add_core = RUS
+trade_goods = wool
+life_rating = 35

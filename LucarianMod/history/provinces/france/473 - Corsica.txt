@@ -1,0 +1,5 @@
+owner = TUN
+controller = TUN
+add_core = FRA
+trade_goods = fish
+life_rating = 35

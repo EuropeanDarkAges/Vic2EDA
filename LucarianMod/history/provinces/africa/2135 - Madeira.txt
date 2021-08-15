@@ -1,0 +1,4 @@
+owner = AND
+controller = AND
+life_rating = 35
+naval_base = 1

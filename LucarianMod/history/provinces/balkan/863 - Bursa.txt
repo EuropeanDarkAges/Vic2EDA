@@ -1,0 +1,23 @@
+owner = NIK
+controller = NIK
+add_core = MAC
+add_core = SPR
+add_core = ATH
+add_core = EPI
+add_core = EDA
+add_core = LAR
+add_core = EUP
+add_core = LMN
+add_core = NIS
+add_core = CYP
+add_core = TUR
+trade_goods = grain
+life_rating = 35
+#state_building = {
+#	level = 1
+#	building = glass_factory
+#	upgrade = yes
+#}
+1861.1.1 = {
+	naval_base = 1
+}

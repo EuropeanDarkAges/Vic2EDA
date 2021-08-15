@@ -1,0 +1,16 @@
+owner = NZL
+controller = NZL
+add_core = NZL
+trade_goods = cattle
+life_rating = 30
+
+state_building = {
+	level = 1
+	building = cement_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = machine_parts_factory
+	upgrade = yes
+}

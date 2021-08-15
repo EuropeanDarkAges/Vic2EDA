@@ -1,0 +1,124 @@
+#Bermuda Region - 9000
+#Ruled by Britain 1836
+#Bermuda (9000/2250 POPS)
+203 = {
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 15
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 97
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1077
+    }
+
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 145
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 757
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 33
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 23
+    }
+}

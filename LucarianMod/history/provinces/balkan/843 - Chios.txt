@@ -1,0 +1,7 @@
+owner = LMN
+controller = LMN
+add_core = LMN
+add_core = TUR
+add_core = GRE
+trade_goods = sulphur
+life_rating = 35

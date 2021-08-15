@@ -1,0 +1,184 @@
+#Puerto Rico (356000)
+#Ruled by Spain 1836
+#Puerto Rico (356000/89000 POPS)
+2222 = {
+    aristocrats = {
+        culture = spanish
+        religion = catholic
+        size = 242
+    }
+
+    bureaucrats = {
+        culture = spanish
+        religion = catholic
+        size = 73
+    }
+
+    clergymen = {
+        culture = spanish
+        religion = catholic
+        size = 291
+    }
+
+    artisans = {
+        culture = spanish
+        religion = catholic
+        size = 776
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 48
+    }
+
+    aristocrats = {
+        culture = caribeno
+        religion = catholic
+        size = 1067
+    }
+
+    bureaucrats = {
+        culture = caribeno
+        religion = catholic
+        size = 24
+    }
+
+    clergymen = {
+        culture = caribeno
+        religion = catholic
+        size = 194
+    }
+
+    artisans = {
+        culture = caribeno
+        religion = catholic
+        size = 2910
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 436
+    }
+
+    farmers = {
+        culture = caribeno
+        religion = catholic
+        size = 39624
+    }
+
+    artisans = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 1067
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 388
+    }
+
+    farmers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 29682
+    }
+
+    slaves = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 9700
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = spanish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 33
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 6
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 90
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = caribeno
+        religion = catholic
+        size = 1226
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 33
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 918
+    }
+
+    soldiers = {
+        culture = afro_caribeno
+        religion = catholic
+        size = 300
+    }
+}

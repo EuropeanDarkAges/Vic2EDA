@@ -1,0 +1,150 @@
+#Hispanola Region (516000) #see Dominican Republic.txt for balance of region
+#Ruled by Haiti 1836
+#Port au Prince (312000/78000 POPS)
+2213 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 800
+    }
+
+    bureaucrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 145
+    }
+
+    officers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 145
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 752
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3783
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 3880
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 66251
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 25
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 117
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 120
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2049
+    }
+}
+#Cap Haitien (204000/51000 POPS)
+2215 = {
+    aristocrats = {
+        culture = afro_antillean
+        religion = catholic
+        size = 533
+    }
+
+    clergymen = {
+        culture = afro_antillean
+        religion = catholic
+        size = 461
+    }
+
+    artisans = {
+        culture = afro_antillean
+        religion = catholic
+        size = 2473
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1067
+    }
+
+    farmers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 45032
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 77
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 33
+    }
+
+    soldiers = {
+        culture = afro_antillean
+        religion = catholic
+        size = 1393
+    }
+}

@@ -1,0 +1,374 @@
+#Nicaragua Region (292000)
+#Ruled by Central America 1836
+#Managua (192000/48000 POPS)
+2197 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 1018
+        militancy = 9
+    }
+
+    bureaucrats = {
+        culture = central_american
+        religion = catholic
+        size = 97
+        militancy = 9
+    }
+
+    officers = {
+        culture = central_american
+        religion = catholic
+        size = 73
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 461
+        militancy = 9
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 2328
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 461
+        militancy = 9
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 42122
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 32
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 3
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 2
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 14
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 72
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 14
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1303
+        militancy = 9
+    }
+}
+#Rivas (40000/10000 POPS)
+2198 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 267
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 97
+        militancy = 9
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 485
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 97
+        militancy = 9
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 8754
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 8
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 3
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 15
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 3
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 271
+        militancy = 9
+    }
+}
+#Esteli (48000/12000 POPS)
+2199 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 315
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 121
+        militancy = 9
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 582
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 121
+        militancy = 9
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 11470
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 4
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 18
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 4
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 355
+        militancy = 9
+    }
+}
+#Bluefields (12000/3000 POPS)
+2200 = {
+    aristocrats = {
+        culture = central_american
+        religion = catholic
+        size = 15
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = central_american
+        religion = catholic
+        size = 24
+        militancy = 9
+    }
+
+    artisans = {
+        culture = central_american
+        religion = catholic
+        size = 48
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 10
+        militancy = 9
+    }
+
+    farmers = {
+        culture = central_american
+        religion = catholic
+        size = 873
+        militancy = 9
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 48
+        militancy = 9
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 97
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 48
+        militancy = 9
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 1746
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 0
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 1
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 2
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 0
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = central_american
+        religion = catholic
+        size = 27
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 2
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 3
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 2
+        militancy = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = catholic
+        size = 54
+        militancy = 9
+    }
+}

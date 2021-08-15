@@ -1,0 +1,15 @@
+owner = SMY
+controller = SMY
+add_core = MAC
+add_core = SPR
+add_core = ATH
+add_core = EPI
+add_core = EDA
+add_core = LAR
+add_core = EUP
+add_core = LMN
+add_core = NIS
+add_core = CYP
+add_core = TUR
+trade_goods = fish
+life_rating = 35

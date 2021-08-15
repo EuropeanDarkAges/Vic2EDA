@@ -1,0 +1,174 @@
+#Surinam : 56640
+#Ruled by The Netherlands 1836
+#Paramaribo (48640/12160 POPS)
+2240 = {
+    aristocrats = {
+        culture = dutch
+        religion = protestant
+        size = 24
+    }
+
+    bureaucrats = {
+        culture = dutch
+        religion = protestant
+        size = 10
+    }
+
+    artisans = {
+        culture = dutch
+        religion = protestant
+        size = 48
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 73
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1697
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1164
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 24
+    }
+
+    slaves = {
+        culture = afro_caribbean
+        religion = animist
+        size = 8730
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 0
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 53
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 36
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = animist
+        size = 270
+    }
+}
+#Aperina (8000/2000 POPS)
+2245 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 24
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 48
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 97
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 24
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 1697
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 3
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 53
+    }
+}

@@ -1,0 +1,5 @@
+owner = AQU
+controller = AQU
+add_core = FRA
+trade_goods = cattle
+life_rating = 32

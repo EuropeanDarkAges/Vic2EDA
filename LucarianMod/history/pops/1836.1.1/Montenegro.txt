@@ -1,0 +1,239 @@
+#Montenegro Region (192000)
+#under the rule of Ottoman Empire in 1836
+#Ulcinj (36000/9000 POPS)
+800 = {
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 62
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 9437
+    }
+
+    clergymen = {
+        culture = albanian
+        religion = sunni
+        size = 31
+    }
+
+    artisans = {
+        culture = albanian
+        religion = sunni
+        size = 62
+    }
+
+    soldiers = {
+        culture = albanian
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = albanian
+        religion = sunni
+        size = 1031
+    }
+}
+#Niksic (52000/13000 POPS)
+2569 = {
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 100
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 500
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 11400
+    }
+
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 250
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 25
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 75
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 125
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 5825
+    }
+}
+#under the rule of Montenegro in 1836
+#Cetinje (104000/26000 POPS)
+2583 = {
+    bureaucrats = {
+        culture = serb
+        religion = orthodox
+        size = 31
+    }
+
+    officers = {
+        culture = serb
+        religion = orthodox
+        size = 31
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 343
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 1625
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 1375
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 29218
+    }
+}
+#Kosovo-Sanjak Region (52000)  #see Serbia.txt for balance of region
+#under the rule of Ottoman Empire in 1836
+#Pljevlja (52000/13000 POPS) #now part of Montenegro
+2577 = {
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 93
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 312
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 10218
+    }
+
+    aristocrats = {
+        culture = bosniak
+        religion = sunni
+        size = 312
+    }
+
+    clergymen = {
+        culture = bosniak
+        religion = sunni
+        size = 62
+    }
+
+    artisans = {
+        culture = bosniak
+        religion = sunni
+        size = 500
+    }
+
+    soldiers = {
+        culture = bosniak
+        religion = sunni
+        size = 187
+    }
+
+    farmers = {
+        culture = bosniak
+        religion = sunni
+        size = 4562
+    }
+}
+#Dalmatia Region (64000) #see Croatia.txt for balance of region
+#under the rule of Austria in 1836
+#Kotor (64000/16000 POPS)
+2582 = {
+    clergymen = {
+        culture = croat
+        religion = catholic
+        size = 62
+    }
+
+    artisans = {
+        culture = croat
+        religion = catholic
+        size = 312
+    }
+
+    soldiers = {
+        culture = croat
+        religion = catholic
+        size = 62
+    }
+
+    farmers = {
+        culture = croat
+        religion = catholic
+        size = 5812
+    }
+
+    clergymen = {
+        culture = serb
+        religion = orthodox
+        size = 125
+    }
+
+    artisans = {
+        culture = serb
+        religion = orthodox
+        size = 687
+    }
+
+    soldiers = {
+        culture = serb
+        religion = orthodox
+        size = 156
+    }
+
+    farmers = {
+        culture = serb
+        religion = orthodox
+        size = 12781
+    }
+}

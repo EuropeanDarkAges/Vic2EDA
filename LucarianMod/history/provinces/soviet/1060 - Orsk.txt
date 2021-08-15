@@ -1,0 +1,6 @@
+owner = KHI
+controller = KHI
+add_core = ORS
+add_core = RUS
+trade_goods = iron
+life_rating = 35

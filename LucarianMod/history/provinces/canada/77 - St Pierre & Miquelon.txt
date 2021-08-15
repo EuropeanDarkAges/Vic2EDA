@@ -1,0 +1,3 @@
+owner = ICL
+controller = ICL
+colonial = 2

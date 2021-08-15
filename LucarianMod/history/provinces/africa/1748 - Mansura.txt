@@ -1,0 +1,5 @@
+owner = ABA
+controller = ABA
+add_core = EGY
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,2461 @@
+#Flanders Region (2558000)
+#Brussels (772000/193000 POPS)
+387 = {
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 12
+    }
+
+    clerks = {
+        culture = ashkenazi
+        religion = jewish
+        size = 24
+    }
+
+    craftsmen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 242
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 691
+    }
+
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 727
+    }
+
+    officers = {
+        culture = flemish
+        religion = catholic
+        size = 97
+    }
+
+    bureaucrats = {
+        culture = flemish
+        religion = catholic
+        size = 388
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 788
+    }
+
+    capitalists = {
+        culture = flemish
+        religion = catholic
+        size = 24
+    }
+
+    clerks = {
+        culture = flemish
+        religion = catholic
+        size = 73
+    }
+
+    craftsmen = {
+        culture = flemish
+        religion = catholic
+        size = 1455
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 2910
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1455
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 70676
+    }
+
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 145
+    }
+
+    officers = {
+        culture = wallonian
+        religion = catholic
+        size = 218
+    }
+
+    bureaucrats = {
+        culture = wallonian
+        religion = catholic
+        size = 776
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 121
+    }
+
+    capitalists = {
+        culture = wallonian
+        religion = catholic
+        size = 73
+    }
+
+    clerks = {
+        culture = wallonian
+        religion = catholic
+        size = 145
+    }
+
+    craftsmen = {
+        culture = wallonian
+        religion = catholic
+        size = 2425
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1115
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 533
+    }
+
+    labourers = {
+        culture = wallonian
+        religion = catholic
+        size = 2740
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = jewish
+        size = 13
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = jewish
+        size = 24
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = jewish
+        size = 242
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = jewish
+        size = 692
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 727
+    }
+
+    officers = {
+        culture = burgundian
+        religion = catholic
+        size = 97
+    }
+
+    bureaucrats = {
+        culture = burgundian
+        religion = catholic
+        size = 388
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 789
+    }
+
+    capitalists = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 73
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 1455
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 2910
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1455
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 70677
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 145
+    }
+
+    officers = {
+        culture = burgundian
+        religion = catholic
+        size = 218
+    }
+
+    bureaucrats = {
+        culture = burgundian
+        religion = catholic
+        size = 776
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 121
+    }
+
+    capitalists = {
+        culture = burgundian
+        religion = catholic
+        size = 73
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 145
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 2425
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1115
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    labourers = {
+        culture = burgundian
+        religion = catholic
+        size = 2740
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 21
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 90
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2186
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 75
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 85
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 8
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 21
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 90
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2186
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 7
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 4
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 75
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 35
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 85
+    }
+}
+#Bruges (456000/114000 POPS)
+388 = {
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 558
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 545
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 4850
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 582
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 48754
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 558
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 546
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 4850
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 582
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 48755
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1508
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1508
+    }
+}
+#Ghent (704000/176000 POPS)
+389 = {
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 849
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 849
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 2910
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 849
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 72629
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 2376
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 24
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 849
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 849
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 2910
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 849
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 72629
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 2376
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 90
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2246
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 74
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 90
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 26
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2246
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 74
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1
+    }
+}
+#Antwerp (354000/88500 POPS)
+390 = {
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 12
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 715
+    }
+
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 400
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 424
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 1746
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 32834
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1418
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 12
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = jewish
+        size = 13
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = jewish
+        size = 716
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 401
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 425
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 4850
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1746
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 32834
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 24
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1419
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 22
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 54
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 1016
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 44
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 0
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 0
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = jewish
+        size = 22
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 150
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 54
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1016
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 44
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 0
+    }
+}
+#Hasselt (272000/68000 POPS)
+391 = {
+    aristocrats = {
+        culture = flemish
+        religion = catholic
+        size = 315
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 327
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 1697
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 30154
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 315
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 328
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1697
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 30155
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 933
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 10
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 933
+    }
+}
+#Wallonia Region (1432000)
+#Liege (388000/97000 POPS)
+392 = {
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 412
+    }
+
+    officers = {
+        culture = wallonian
+        religion = catholic
+        size = 170
+    }
+
+    bureaucrats = {
+        culture = wallonian
+        religion = catholic
+        size = 679
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 412
+    }
+
+    capitalists = {
+        culture = wallonian
+        religion = catholic
+        size = 73
+    }
+
+    clerks = {
+        culture = wallonian
+        religion = catholic
+        size = 97
+    }
+
+    craftsmen = {
+        culture = wallonian
+        religion = catholic
+        size = 1940
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 4365
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1940
+    }
+
+    labourers = {
+        culture = wallonian
+        religion = catholic
+        size = 29682
+    }
+
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 73
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 1455
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 60
+    }
+
+    labourers = {
+        culture = flemish
+        religion = catholic
+        size = 3795
+    }
+
+    clergymen = {
+        culture = dutch
+        religion = protestant
+        size = 36
+    }
+
+    farmers = {
+        culture = dutch
+        religion = protestant
+        size = 1903
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 412
+    }
+
+    officers = {
+        culture = burgundian
+        religion = catholic
+        size = 170
+    }
+
+    bureaucrats = {
+        culture = burgundian
+        religion = catholic
+        size = 679
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 412
+    }
+
+    capitalists = {
+        culture = burgundian
+        religion = catholic
+        size = 73
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 97
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 1940
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 4365
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1940
+    }
+
+    labourers = {
+        culture = burgundian
+        religion = catholic
+        size = 29682
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 73
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1455
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 61
+    }
+
+    labourers = {
+        culture = burgundian
+        religion = catholic
+        size = 3796
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = protestant
+        size = 37
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = protestant
+        size = 1904
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 21
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 135
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 918
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 117
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = dutch
+        religion = protestant
+        size = 59
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 21
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 3
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 135
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 60
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 918
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 117
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = protestant
+        size = 59
+    }
+}
+#Tournai (292000/73000 POPS)
+393 = {
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 48
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 533
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 48
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 4268
+    }
+
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 339
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 303
+    }
+
+    clerks = {
+        culture = wallonian
+        religion = catholic
+        size = 48
+    }
+
+    craftsmen = {
+        culture = wallonian
+        religion = catholic
+        size = 970
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1212
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = catholic
+        size = 32046
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 48
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 48
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 4268
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 339
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 304
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 48
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 970
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1212
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 32047
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 132
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 30
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 38
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 991
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 132
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 11
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 30
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 38
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 991
+    }
+}
+#Charleroi (396000/99000 POPS)
+394 = {
+    clergymen = {
+        culture = flemish
+        religion = catholic
+        size = 48
+    }
+
+    artisans = {
+        culture = flemish
+        religion = catholic
+        size = 727
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 60
+    }
+
+    farmers = {
+        culture = flemish
+        religion = catholic
+        size = 4983
+    }
+
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 436
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 424
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1697
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = catholic
+        size = 39151
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 48
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 727
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 61
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 4984
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 436
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 425
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1697
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 39152
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = flemish
+        religion = catholic
+        size = 154
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1211
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 23
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 154
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 13
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 53
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 1211
+    }
+}
+#Namur (212000/53000 POPS)
+395 = {
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 267
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 267
+    }
+
+    clerks = {
+        culture = wallonian
+        religion = catholic
+        size = 48
+    }
+
+    craftsmen = {
+        culture = wallonian
+        religion = catholic
+        size = 970
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1455
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = catholic
+        size = 22213
+    }
+
+    aristocrats = {
+        culture = burgundian
+        religion = catholic
+        size = 267
+    }
+
+    clergymen = {
+        culture = burgundian
+        religion = catholic
+        size = 267
+    }
+
+    clerks = {
+        culture = burgundian
+        religion = catholic
+        size = 48
+    }
+
+    craftsmen = {
+        culture = burgundian
+        religion = catholic
+        size = 970
+    }
+
+    artisans = {
+        culture = burgundian
+        religion = catholic
+        size = 1455
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 533
+    }
+
+    farmers = {
+        culture = burgundian
+        religion = catholic
+        size = 22213
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 30
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 687
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 2
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 30
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 45
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 17
+    }
+
+    soldiers = {
+        culture = burgundian
+        religion = catholic
+        size = 687
+    }
+}
+#Spa (144000/36000 POPS)
+396 = {
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 250
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 275
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 1300
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = catholic
+        size = 24175
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 75
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 450
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 8375
+    }
+}
+#Luxembourg Region (172000)
+#Arlon (172000/43000 POPS)
+398 = {
+    aristocrats = {
+        culture = wallonian
+        religion = catholic
+        size = 450
+    }
+
+    clergymen = {
+        culture = wallonian
+        religion = catholic
+        size = 425
+    }
+
+    artisans = {
+        culture = wallonian
+        religion = catholic
+        size = 2000
+    }
+
+    soldiers = {
+        culture = wallonian
+        religion = catholic
+        size = 1100
+    }
+
+    farmers = {
+        culture = wallonian
+        religion = catholic
+        size = 39125
+    }
+}

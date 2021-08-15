@@ -1,0 +1,5 @@
+owner = ABA
+controller = ABA
+add_core = OMA
+trade_goods = opium
+life_rating = 35

@@ -1,0 +1,7 @@
+owner = KHI
+controller = KHI
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	colonial = 2
+}

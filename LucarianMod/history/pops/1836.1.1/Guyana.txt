@@ -1,0 +1,358 @@
+#Guyana (99600)
+#Ruled by Britain 1836
+#Georgetown (58600/14650 POPS)
+2239 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 97
+    }
+
+    bureaucrats = {
+        culture = british
+        religion = protestant
+        size = 48
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 339
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 97
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 73
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 679
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 145
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 12683
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 11
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 21
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 5
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 392
+    }
+}
+#Mahdia (4000/1000 POPS)
+2242 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 48
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 873
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 27
+    }
+}
+#Essequibo (33000/8250 POPS)
+2243 = {
+    aristocrats = {
+        culture = british
+        religion = protestant
+        size = 48
+    }
+
+    clergymen = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    artisans = {
+        culture = british
+        religion = protestant
+        size = 97
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 24
+    }
+
+    farmers = {
+        culture = british
+        religion = protestant
+        size = 48
+    }
+
+    clergymen = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 73
+    }
+
+    artisans = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 291
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 73
+    }
+
+    farmers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 8293
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 3
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = british
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 9
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = afro_caribbean
+        religion = protestant
+        size = 257
+    }
+}
+#Biloka (4000/1000 POPS)
+1979 = {
+    aristocrats = {
+        culture = amazonian
+        religion = animist
+        size = 10
+    }
+
+    clergymen = {
+        culture = amazonian
+        religion = animist
+        size = 24
+    }
+
+    artisans = {
+        culture = amazonian
+        religion = animist
+        size = 48
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 15
+    }
+
+    farmers = {
+        culture = amazonian
+        religion = animist
+        size = 873
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 1
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 2
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 0
+    }
+
+    soldiers = {
+        culture = amazonian
+        religion = animist
+        size = 27
+    }
+}
