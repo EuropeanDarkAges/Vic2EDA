@@ -1,5 +1,5 @@
-owner = ICL
-controller = ICL
+owner = IRO
+controller = IRO
 add_core = NEN
 add_core = USA
 trade_goods = timber

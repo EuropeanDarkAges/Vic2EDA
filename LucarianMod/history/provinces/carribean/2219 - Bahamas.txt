@@ -1,5 +1,5 @@
-owner = CUB
-controller = CUB
+owner = DEN
+controller = DEN
 trade_goods = cotton
 life_rating = 35
 colonial = 2

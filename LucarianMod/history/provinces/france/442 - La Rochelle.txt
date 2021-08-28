@@ -1,5 +1,5 @@
-owner = AQU
-controller = AQU
+owner = TOU
+controller = TOU
 add_core = FRA
 trade_goods = fish
 life_rating = 32

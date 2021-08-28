@@ -1,5 +1,5 @@
-owner = ESS
-controller = ESS
+owner = WES
+controller = WES
 add_core = ENG
 trade_goods = coal
 life_rating = 35

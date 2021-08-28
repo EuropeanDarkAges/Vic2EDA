@@ -6,37 +6,67 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 375
+        size = 337
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 187
+        size = 168
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 6702
+        size = 6032
     }
 
     farmers = {
-        culture = british
+        culture = australian
         religion = protestant
         size = 468
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 38
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 19
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 670
     }
 }
 #New Plymouth (8000/2000 POPS)
@@ -44,31 +74,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 187
+        size = 168
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 3327
+        size = 2994
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 19
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 333
     }
 }
 #Napier (12000/3000 POPS)
@@ -76,31 +136,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 280
+        size = 252
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 5014
+        size = 4513
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 28
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 501
     }
 }
 #Wellington (12000/3000 POPS)
@@ -108,31 +198,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 280
+        size = 252
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 5014
+        size = 4513
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 28
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 501
     }
 }
 #Tauranga (12000/3000 POPS)
@@ -140,31 +260,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 280
+        size = 252
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 5014
+        size = 4513
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 28
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 501
     }
 }
 #South Island Region (24000)
@@ -173,31 +323,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 18
+        size = 16
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 27
+        size = 24
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 1687
+        size = 1518
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 2
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 3
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 169
     }
 }
 #Hokitikia (4000/1000 POPS)
@@ -205,31 +385,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 18
+        size = 16
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 27
+        size = 24
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 1687
+        size = 1518
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 2
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 3
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 169
     }
 }
 #Christchurch (4000/1000 POPS)
@@ -237,31 +447,61 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 187
+        size = 168
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 93
+        size = 84
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 3327
+        size = 2994
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 19
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 9
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 333
     }
 }
 #Nelson (12000/3000 POPS)
@@ -269,30 +509,60 @@
     aristocrats = {
         culture = maori
         religion = animist
-        size = 46
+        size = 41
     }
 
     clergymen = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     artisans = {
         culture = maori
         religion = animist
-        size = 280
+        size = 252
     }
 
     soldiers = {
         culture = maori
         religion = animist
-        size = 139
+        size = 125
     }
 
     farmers = {
         culture = maori
         religion = animist
-        size = 5014
+        size = 4513
+    }
+
+    aristocrats = {
+        culture = australian
+        religion = animist
+        size = 5
+    }
+
+    clergymen = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    artisans = {
+        culture = australian
+        religion = animist
+        size = 28
+    }
+
+    soldiers = {
+        culture = australian
+        religion = animist
+        size = 14
+    }
+
+    farmers = {
+        culture = australian
+        religion = animist
+        size = 501
     }
 }

@@ -4,7 +4,9 @@
 
 capital = 441
 primary_culture = french
-religion = catholic
+culture = moor
+culture = maghrebi
+religion = sunni
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_liberty

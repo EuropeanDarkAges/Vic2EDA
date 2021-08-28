@@ -72,31 +72,31 @@
 #Dundee (364000/91000 POPS)
 268 = {
     aristocrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 300
     }
 
     bureaucrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 500
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 8000
     }
 
     soldiers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 78200
     }
@@ -105,91 +105,91 @@
 #Edinburgh (480000/120000 POPS)
 269 = {
     aristocrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 500
     }
 
     officers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 1100
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 375
     }
 
     capitalists = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 550
     }
 
     bureaucrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 1100
     }
 
     clerks = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 400
     }
 
     craftsmen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 4000
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 6000
     }
 
     soldiers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 2000
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 57175
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 100
     }
 
     craftsmen = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 1500
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 5000
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 26400
     }
@@ -203,37 +203,37 @@
 #Stirling (364000/91000 POPS)
 270 = {
     aristocrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 200
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 6500
     }
 
     soldiers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 1100
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 79100
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 4000
     }
@@ -241,67 +241,67 @@
 #Glasgow (620000/155000 POPS)
 271 = {
     aristocrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 500
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 500
     }
 
     clerks = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 850
     }
 
     craftsmen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 11500
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 10000
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 2000
     }
 
     soldiers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 87650
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 4900
     }
@@ -327,31 +327,31 @@
 #Dumfries (168000/42000 POPS)
 272 = {
     aristocrats = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 100
     }
 
     clergymen = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 100
     }
 
     artisans = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 4000
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = protestant
         size = 33800
     }
 
     farmers = {
-        culture = danish
+        culture = scottish
         religion = catholic
         size = 5000
     }
@@ -558,18 +558,6 @@
         culture = british
         religion = protestant
         size = 1250
-    }
-
-    clerks = {
-        culture = british
-        religion = protestant
-        size = 1750
-    }
-
-    craftsmen = {
-        culture = british
-        religion = protestant
-        size = 30000
     }
 
     artisans = {
@@ -2083,16 +2071,10 @@
         size = 2425
     }
 
-    clerks = {
-        culture = anglosaxon
-        religion = protestant
-        size = 5820
-    }
-
     craftsmen = {
         culture = anglosaxon
         religion = protestant
-        size = 115430
+        size = 5000
     }
 
     artisans = {

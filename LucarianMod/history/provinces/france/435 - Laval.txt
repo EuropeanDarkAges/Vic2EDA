@@ -1,5 +1,5 @@
-owner = TOU
-controller = TOU
+owner = NRM
+controller = NRM
 add_core = FRA
 trade_goods = timber
 life_rating = 30

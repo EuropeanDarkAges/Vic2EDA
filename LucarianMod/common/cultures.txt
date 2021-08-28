@@ -940,6 +940,30 @@ arab = {
 			}
 			radicalism = 10
 	}
+	moor = {
+		color = {255 89 64}
+		first_names = { 
+			"Abd Allah" "Abd al-Karim" "Abd al-Malik" "Abd al-Qadir" "Abd al-Rahman" Ahmad Ali 
+			Fawzi Fuad Halil Hasan Hisham Ibrahim Ishaq Iskandar Jamal Kamil Khalid Mahmud
+			Muhammad Mustafa "Nur al-Din" "Sa'd al-Din" Salim Shukri
+			Tawfiq Umar Uthman Yahya Yusuf Zafir Agustín Aitor Alberto Ander Andoni Andrés Ángel Antonio Arturo Carlos
+		Ceferino Cosme Cristobal Damián Endika "Francisco Javier" Ignacio Imanol Iñaki Jesús
+		Jon "José Antonio" "José María" Joseba Josu Juan Julen Koldobika Luis Manuel
+		Marino Miguel Paulino Pedro Rafael Ramiro Ramón Sabino Tomás Vicente 	 	
+			}
+		
+		last_names = { 
+			"al-Annabi" "al-Araishi" "al-Asfawi" "al-Binzarti" "al-Fasi" "al-Gharyani"
+			"al-Jaza'iri" "al-Miknasi" "al-Misurati" "al-Murrakushi" "al-Qabisi" "al-Qayrawani" "al-Ribati" "al-Safaqisi"
+			"al-Silawi" "al-Sirti" "al-Susawi" "al-Tilimsani" "al-Tanjawi" "al-Tatwani" "al-Trablusi" "al-Tunusi" 
+			"al-Wahrani" "al-Warqali" "al-Wujdi"
+			"ibn Abd Allah" "ibn Abd al-Qadir" "ibn Abu Bakr" "ibn Ahmad" "ibn Ali"
+			"ibn Fuad" "ibn Halil" "ibn Hasan" "ibn Hisham" "ibn Ishaq" "ibn Ja'far" "ibm Kamil" "ibn Khalid" 
+			"ibn Muhammad" "ibn Mustafa" "ibn Salim"   
+			"ibn Umar" "ibn Uthman" "ibn Yusuf"  
+			}
+		}
+	
 	
 
 }
@@ -1637,6 +1661,16 @@ native_american = {
 		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
 		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
 	}
+	aztec = {
+		color = {87 199 81}
+		first_names = { Agustín Alberto Alfonso Alfredo Andrés Benito Carlos César Eduardo Eugenio
+		Felipe Fernando Gabriel Gilberto Gregorio Jacinto Jesús José Juan Julio
+		Macario Manuel Miguel Nazario Nicolás Oliverio Pablo Porfirio Rodolfo Rufino }
+
+		last_names = { Alonso Antúnez Cabrera Cajigas Chacón Chiñas Cortés Fernández Gamboa García
+		González Gutiérrez Guzmán Henestrosa Isael Jiménez Juárez López Matus Mérida
+		Morales Nayeli Orozco Ortíz Pineda Rojas Ruíz Suárez Tamayo Vichido }
+	}
 	mayan = {
 		color = {98 88 142}
 		first_names = { Agustín Akbal Alejandro Andrés Aníbal Antonio Armando Bernardo Carlos Crescencio
@@ -1748,7 +1782,7 @@ native_american = {
 		}
 	}
 	cherokee = {
-		color = {136 114 173}
+		color = {255 255 109}
 		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
 		}
 		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
@@ -1787,6 +1821,20 @@ native_american = {
 		first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
 		}
 		last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+		}
+	}
+	shawnee = {
+		color = {255 140 131}
+		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
+		}
+		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
+		}
+	}
+	iroquois = {
+		color = {136 114 173}
+		first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
+		}
+		last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
 		}
 	}
 }

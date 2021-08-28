@@ -3,8 +3,9 @@
 #========================= H E A D E R =========================
 
 capital = 455
-primary_culture = berber
+primary_culture = moor
 culture = maghrebi
+culture = berber
 religion = sunni
 government = absolute_monarchy
 plurality = 10
@@ -14,6 +15,7 @@ civilized = yes
 prestige = 5
 schools = traditional_academic
 oob = "AQU.txt"
+
 
 
 #========================= H O U S E - O F - L O R D S =========================

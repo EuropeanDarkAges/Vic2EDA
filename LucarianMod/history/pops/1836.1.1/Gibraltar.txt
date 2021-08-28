@@ -3,122 +3,122 @@
 #Gibraltar (16000/4000 POPS)
 517 = {
     officers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 5
     }
 
     bureaucrats = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 5
     }
 
     clergymen = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 5
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 97
     }
 
     artisans = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 131
     }
 
     artisans = {
-        culture = sephardic
-        religion = jewish
+        culture = moor
+        religion = sunni
         size = 388
     }
 
     clergymen = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 48
     }
 
     artisans = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 2910
     }
 
     soldiers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 48
     }
 
     farmers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 194
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 0
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 0
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 0
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 3
     }
 
     soldiers = {
-        culture = british
-        religion = protestant
+        culture = moor
+        religion = sunni
         size = 4
     }
 
     soldiers = {
-        culture = sephardic
-        religion = jewish
+        culture = moor
+        religion = sunni
         size = 12
     }
 
     soldiers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 2
     }
 
     soldiers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 90
     }
 
     soldiers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 2
     }
 
     soldiers = {
-        culture = spanish
-        religion = catholic
+        culture = moor
+        religion = sunni
         size = 6
     }
 }

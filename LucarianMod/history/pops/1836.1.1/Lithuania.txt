@@ -5,91 +5,91 @@
     clergymen = {
         culture = lithuanian
         religion = catholic
-        size = 145
+        size = 159
     }
 
     artisans = {
         culture = lithuanian
         religion = catholic
-        size = 2425
+        size = 2667
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1067
+        size = 1173
     }
 
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 12028
+        size = 13230
     }
 
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 1212
+        size = 1333
     }
 
     bureaucrats = {
         culture = polish
         religion = catholic
-        size = 218
+        size = 239
     }
 
     officers = {
         culture = polish
         religion = catholic
-        size = 242
+        size = 266
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 97
+        size = 106
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 3637
+        size = 4000
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 97
+        size = 106
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 4195
+        size = 4614
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 145
+        size = 159
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 3152
+        size = 3467
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 145
+        size = 159
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 12076
+        size = 13283
     }
 
     soldiers = {
@@ -101,25 +101,25 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 75
+        size = 82
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 33
+        size = 36
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 372
+        size = 409
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 38
+        size = 41
     }
 
     soldiers = {
@@ -143,7 +143,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 113
+        size = 124
     }
 
     soldiers = {
@@ -155,7 +155,7 @@
     soldiers = {
         culture = polish
         religion = catholic
-        size = 130
+        size = 143
     }
 
     soldiers = {
@@ -167,7 +167,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 98
+        size = 107
     }
 
     soldiers = {
@@ -179,7 +179,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 374
+        size = 411
     }
 }
 #Kaunas (204000/51000 POPS)
@@ -187,479 +187,85 @@
     aristocrats = {
         culture = lithuanian
         religion = catholic
-        size = 921
+        size = 1013
     }
 
     clergymen = {
         culture = lithuanian
         religion = catholic
-        size = 388
+        size = 426
     }
 
     artisans = {
         culture = lithuanian
         religion = catholic
-        size = 1115
+        size = 1226
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1067
+        size = 1173
     }
 
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 36375
+        size = 40012
     }
 
     aristocrats = {
         culture = polish
         religion = catholic
-        size = 242
+        size = 266
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 24
+        size = 26
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 145
+        size = 159
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 24
+        size = 26
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 533
+        size = 586
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 73
+        size = 80
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 1746
+        size = 1920
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 73
+        size = 80
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 6838
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 29
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 12
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 35
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 33
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 1125
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 5
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 1
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 17
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 54
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 212
-    }
-}
-#Marjampole (240000/60000 POPS)
-362 = {
-    clergymen = {
-        culture = lithuanian
-        religion = catholic
-        size = 242
-    }
-
-    artisans = {
-        culture = lithuanian
-        religion = catholic
-        size = 1455
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 242
-    }
-
-    farmers = {
-        culture = lithuanian
-        religion = catholic
-        size = 24250
-    }
-
-    aristocrats = {
-        culture = polish
-        religion = catholic
-        size = 1891
-    }
-
-    clergymen = {
-        culture = polish
-        religion = catholic
-        size = 267
-    }
-
-    artisans = {
-        culture = polish
-        religion = catholic
-        size = 1164
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 291
-    }
-
-    farmers = {
-        culture = polish
-        religion = catholic
-        size = 12828
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 73
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1358
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 97
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 8172
-    }
-
-    clergymen = {
-        culture = north_german
-        religion = protestant
-        size = 73
-    }
-
-    artisans = {
-        culture = north_german
-        religion = protestant
-        size = 194
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 48
-    }
-
-    farmers = {
-        culture = north_german
-        religion = protestant
-        size = 3565
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 45
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 750
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 59
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 8
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 36
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 9
-    }
-
-    soldiers = {
-        culture = polish
-        religion = catholic
-        size = 397
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 42
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 253
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 110
-    }
-}
-#Panevezys (204000/51000 POPS)
-363 = {
-    aristocrats = {
-        culture = lithuanian
-        religion = catholic
-        size = 994
-    }
-
-    clergymen = {
-        culture = lithuanian
-        religion = catholic
-        size = 364
-    }
-
-    artisans = {
-        culture = lithuanian
-        religion = catholic
-        size = 1697
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 364
-    }
-
-    farmers = {
-        culture = lithuanian
-        religion = catholic
-        size = 33441
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 73
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2910
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 97
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 6620
-    }
-
-    clergymen = {
-        culture = north_german
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = north_german
-        religion = protestant
-        size = 194
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = north_german
-        religion = protestant
-        size = 727
-    }
-
-    clergymen = {
-        culture = russian
-        religion = orthodox
-        size = 48
-    }
-
-    artisans = {
-        culture = russian
-        religion = orthodox
-        size = 97
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 24
-    }
-
-    farmers = {
-        culture = russian
-        religion = orthodox
-        size = 1770
+        size = 7521
     }
 
     soldiers = {
@@ -671,165 +277,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 11
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 53
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 11
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 1034
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 2
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 90
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 3
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 205
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 23
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 2
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 3
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 1
-    }
-
-    soldiers = {
-        culture = russian
-        religion = orthodox
-        size = 55
-    }
-}
-#Siauliai (200000/50000 POPS)
-364 = {
-    aristocrats = {
-        culture = lithuanian
-        religion = catholic
-        size = 873
-    }
-
-    clergymen = {
-        culture = lithuanian
-        religion = catholic
-        size = 388
-    }
-
-    artisans = {
-        culture = lithuanian
-        religion = catholic
-        size = 1212
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 412
-    }
-
-    farmers = {
-        culture = lithuanian
-        religion = catholic
-        size = 38824
-    }
-
-    clergymen = {
-        culture = ashkenazi
-        religion = jewish
-        size = 121
-    }
-
-    artisans = {
-        culture = ashkenazi
-        religion = jewish
-        size = 1358
-    }
-
-    soldiers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 73
-    }
-
-    farmers = {
-        culture = ashkenazi
-        religion = jewish
-        size = 5238
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 27
-    }
-
-    soldiers = {
-        culture = lithuanian
-        religion = catholic
-        size = 12
+        size = 13
     }
 
     soldiers = {
@@ -841,13 +289,565 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
+        size = 36
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 1237
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 5
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 1
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 18
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 59
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 233
+    }
+}
+#Marjampole (240000/60000 POPS)
+362 = {
+    clergymen = {
+        culture = lithuanian
+        religion = catholic
+        size = 266
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = catholic
+        size = 1600
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 266
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = catholic
+        size = 26675
+    }
+
+    aristocrats = {
+        culture = polish
+        religion = catholic
+        size = 2080
+    }
+
+    clergymen = {
+        culture = polish
+        religion = catholic
+        size = 293
+    }
+
+    artisans = {
+        culture = polish
+        religion = catholic
+        size = 1280
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 320
+    }
+
+    farmers = {
+        culture = polish
+        religion = catholic
+        size = 14110
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 80
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1493
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 106
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 8989
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 80
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 213
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 52
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 3921
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 49
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 825
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 64
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 8
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 39
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 9
+    }
+
+    soldiers = {
+        culture = polish
+        religion = catholic
+        size = 436
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 46
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 278
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 2
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 121
+    }
+}
+#Panevezys (204000/51000 POPS)
+363 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = catholic
+        size = 1093
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = catholic
+        size = 400
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = catholic
+        size = 1866
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 400
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = catholic
+        size = 36785
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 80
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3201
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 106
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 7282
+    }
+
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 26
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 213
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 26
+    }
+
+    farmers = {
+        culture = north_german
+        religion = protestant
+        size = 799
+    }
+
+    clergymen = {
+        culture = russian
+        religion = orthodox
+        size = 52
+    }
+
+    artisans = {
+        culture = russian
+        religion = orthodox
+        size = 106
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 26
+    }
+
+    farmers = {
+        culture = russian
+        religion = orthodox
+        size = 1947
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 34
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 58
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 12
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 1137
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 2
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 99
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 3
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 225
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 6
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 1
+    }
+
+    soldiers = {
+        culture = north_german
+        religion = protestant
+        size = 25
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 2
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 3
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 1
+    }
+
+    soldiers = {
+        culture = russian
+        religion = orthodox
+        size = 60
+    }
+}
+#Siauliai (200000/50000 POPS)
+364 = {
+    aristocrats = {
+        culture = lithuanian
+        religion = catholic
+        size = 960
+    }
+
+    clergymen = {
+        culture = lithuanian
+        religion = catholic
+        size = 426
+    }
+
+    artisans = {
+        culture = lithuanian
+        religion = catholic
+        size = 1333
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 453
+    }
+
+    farmers = {
+        culture = lithuanian
+        religion = catholic
+        size = 42706
+    }
+
+    clergymen = {
+        culture = ashkenazi
+        religion = jewish
+        size = 133
+    }
+
+    artisans = {
+        culture = ashkenazi
+        religion = jewish
+        size = 1493
+    }
+
+    soldiers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 80
+    }
+
+    farmers = {
+        culture = ashkenazi
+        religion = jewish
+        size = 5761
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 29
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
         size = 13
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 1201
+        size = 41
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 14
+    }
+
+    soldiers = {
+        culture = lithuanian
+        religion = catholic
+        size = 1321
     }
 
     soldiers = {
@@ -859,7 +859,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 42
+        size = 46
     }
 
     soldiers = {
@@ -871,7 +871,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 162
+        size = 178
     }
 }
 #Palanga (84000/21000 POPS)
@@ -879,85 +879,85 @@
     aristocrats = {
         culture = lithuanian
         religion = catholic
-        size = 339
+        size = 372
     }
 
     clergymen = {
         culture = lithuanian
         religion = catholic
-        size = 145
+        size = 159
     }
 
     artisans = {
         culture = lithuanian
         religion = catholic
-        size = 485
+        size = 533
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 170
+        size = 187
     }
 
     farmers = {
         culture = lithuanian
         religion = catholic
-        size = 15350
+        size = 16885
     }
 
     clergymen = {
         culture = ashkenazi
         religion = jewish
-        size = 48
+        size = 52
     }
 
     artisans = {
         culture = ashkenazi
         religion = jewish
-        size = 582
+        size = 640
     }
 
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 24
+        size = 26
     }
 
     farmers = {
         culture = ashkenazi
         religion = jewish
-        size = 2255
+        size = 2480
     }
 
     clergymen = {
         culture = north_german
         religion = protestant
-        size = 24
+        size = 26
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 97
+        size = 106
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 24
+        size = 26
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 824
+        size = 906
     }
 
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 11
+        size = 12
     }
 
     soldiers = {
@@ -969,7 +969,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 15
+        size = 16
     }
 
     soldiers = {
@@ -981,7 +981,7 @@
     soldiers = {
         culture = lithuanian
         religion = catholic
-        size = 475
+        size = 522
     }
 
     soldiers = {
@@ -993,7 +993,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 18
+        size = 19
     }
 
     soldiers = {
@@ -1005,7 +1005,7 @@
     soldiers = {
         culture = ashkenazi
         religion = jewish
-        size = 70
+        size = 77
     }
 
     soldiers = {
@@ -1029,7 +1029,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 26
+        size = 28
     }
 }
 #East Prussia Region (172000) #see Poland.txt and Lithuania.txt for balance of region
@@ -1039,31 +1039,31 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 727
+        size = 799
     }
 
     clergymen = {
         culture = north_german
         religion = protestant
-        size = 194
+        size = 213
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 2328
+        size = 2560
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1067
+        size = 1173
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 18915
+        size = 20806
     }
 
     clergymen = {
@@ -1075,37 +1075,37 @@
     artisans = {
         culture = north_german
         religion = jewish
-        size = 141
+        size = 155
     }
 
     clergymen = {
         culture = lithuanian
         religion = protestant
-        size = 145
+        size = 159
     }
 
     artisans = {
         culture = lithuanian
         religion = protestant
-        size = 921
+        size = 1013
     }
 
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 1067
+        size = 1173
     }
 
     farmers = {
         culture = lithuanian
         religion = protestant
-        size = 16587
+        size = 18245
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 23
+        size = 25
     }
 
     soldiers = {
@@ -1117,19 +1117,19 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 72
+        size = 79
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 33
+        size = 36
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 585
+        size = 643
     }
 
     soldiers = {
@@ -1153,18 +1153,18 @@
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 29
+        size = 31
     }
 
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 33
+        size = 36
     }
 
     soldiers = {
         culture = lithuanian
         religion = protestant
-        size = 513
+        size = 564
     }
 }

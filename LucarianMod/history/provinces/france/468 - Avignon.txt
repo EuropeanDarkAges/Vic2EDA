@@ -1,5 +1,5 @@
-owner = AND
-controller = AND
+owner = AQU
+controller = AQU
 add_core = FRA
 trade_goods = sulphur
 life_rating = 32

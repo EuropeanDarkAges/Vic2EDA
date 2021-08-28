@@ -3,7 +3,8 @@
 #========================= H E A D E R =========================
 
 capital = 510
-primary_culture = maghrebi
+primary_culture = moor
+culture = maghrebi
 culture = berber
 religion = sunni
 government = absolute_monarchy
