@@ -369,6 +369,12 @@
 		religion = sunni
 		size = 1100
 	}
+	
+	craftsmen = {
+		culture = mashriqi
+		religion = sunni
+		size = 20000
+	}
 
 	bureaucrats = {
 		culture = mashriqi

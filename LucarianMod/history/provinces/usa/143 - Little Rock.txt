@@ -1,5 +1,5 @@
-owner = TEX
-controller = TEX
+owner = SIO
+controller = SIO
 add_core = USA 
 add_core = CHE
 trade_goods = grain

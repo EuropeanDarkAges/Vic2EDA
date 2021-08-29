@@ -3,13 +3,15 @@
 #========================= H E A D E R =========================
 
 capital = 510
-primary_culture = maghrebi
+primary_culture = moor
+culture = maghrebi
 culture = berber
 religion = sunni
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0.5
+literacy = 0.60
+non_state_culture_literacy = 0.40
 civilized = yes 
 prestige = 20
 schools = traditional_academic

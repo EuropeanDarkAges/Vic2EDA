@@ -59,7 +59,16 @@ BRG		= "countries/BRG.txt"
 LIE		= "countries/LIE.txt"
 ALC		= "countries/ALC.txt"
 DLW		= "countries/DLW.txt"
-
+BRT		= "countries/BRT.txt"
+CIR		= "countries/CIR.txt"
+IRO		= "countries/IRO.txt"
+CHK		= "countries/CHK.txt"
+SHA		= "countries/SHA.txt"
+INN		= "countries/INN.txt"
+SIO		= "countries/SIO.txt"
+CEE		= "countries/CEE.txt"
+AZT		= "countries/AZT.txt"
+MAY		= "countries/MAY.txt"
 
 # Common Great Powers
 ENG		= "countries/United Kingdom.txt"

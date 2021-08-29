@@ -10123,91 +10123,91 @@
     aristocrats = {
         culture = manchu
         religion = mahayana
-        size = 1500
+        size = 1350
     }
 
     clergymen = {
         culture = manchu
         religion = mahayana
-        size = 775
+        size = 697
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 3900
+        size = 3510
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 750
+        size = 675
     }
 
     farmers = {
         culture = manchu
         religion = mahayana
-        size = 71075
+        size = 63967
     }
 
     aristocrats = {
         culture = korean
         religion = mahayana
-        size = 30
+        size = 27
     }
 
     clergymen = {
         culture = korean
         religion = mahayana
-        size = 40
+        size = 36
     }
 
     artisans = {
         culture = korean
         religion = mahayana
-        size = 150
+        size = 135
     }
 
     soldiers = {
         culture = korean
         religion = mahayana
-        size = 30
+        size = 27
     }
 
     farmers = {
         culture = korean
         religion = mahayana
-        size = 2750
+        size = 2475
     }
 
     aristocrats = {
+        culture = siberian
+        religion = animist
+        size = 6
+    }
+
+    clergymen = {
         culture = siberian
         religion = animist
         size = 7
     }
 
-    clergymen = {
-        culture = siberian
-        religion = animist
-        size = 8
-    }
-
     artisans = {
         culture = siberian
         religion = animist
-        size = 50
+        size = 45
     }
 
     soldiers = {
         culture = siberian
         religion = animist
-        size = 10
+        size = 9
     }
 
     farmers = {
         culture = siberian
         religion = animist
-        size = 925
+        size = 832
     }
 }
 #Boli (328000/82000 POPS)
@@ -10215,61 +10215,61 @@
     aristocrats = {
         culture = manchu
         religion = mahayana
-        size = 1450
+        size = 1305
     }
 
     clergymen = {
         culture = manchu
         religion = mahayana
-        size = 775
+        size = 697
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 4000
+        size = 3600
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 800
+        size = 720
     }
 
     farmers = {
         culture = manchu
         religion = mahayana
-        size = 72975
+        size = 65677
     }
 
     aristocrats = {
         culture = siberian
         religion = animist
-        size = 25
+        size = 22
     }
 
     clergymen = {
         culture = siberian
         religion = animist
-        size = 30
+        size = 27
     }
 
     artisans = {
         culture = siberian
         religion = animist
-        size = 100
+        size = 90
     }
 
     soldiers = {
         culture = siberian
         religion = animist
-        size = 20
+        size = 18
     }
 
     farmers = {
         culture = siberian
         religion = animist
-        size = 1925
+        size = 1732
     }
 }
 #Utchan (18000 POPS)
@@ -10277,61 +10277,61 @@
     aristocrats = {
         culture = manchu
         religion = mahayana
-        size = 300
+        size = 270
     }
 
     clergymen = {
         culture = manchu
         religion = mahayana
-        size = 150
+        size = 135
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 800
+        size = 720
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 175
+        size = 157
     }
 
     farmers = {
         culture = manchu
         religion = mahayana
-        size = 14575
+        size = 13117
     }
 
     aristocrats = {
         culture = siberian
         religion = animist
-        size = 25
+        size = 22
     }
 
     clergymen = {
         culture = siberian
         religion = animist
-        size = 50
+        size = 45
     }
 
     artisans = {
         culture = siberian
         religion = animist
-        size = 100
+        size = 90
     }
 
     soldiers = {
         culture = siberian
         religion = animist
-        size = 25
+        size = 22
     }
 
     farmers = {
         culture = siberian
         religion = animist
-        size = 1800
+        size = 1620
     }
 }
 #Ulusamudan (372000/93000 POPS)
@@ -10339,67 +10339,67 @@
     aristocrats = {
         culture = manchu
         religion = mahayana
-        size = 1800
+        size = 1620
     }
 
     bureaucrats = {
         culture = manchu
         religion = mahayana
-        size = 425
+        size = 382
     }
 
     clergymen = {
         culture = manchu
         religion = mahayana
-        size = 900
+        size = 810
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 4600
+        size = 4140
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 900
+        size = 810
     }
 
     farmers = {
         culture = manchu
         religion = mahayana
-        size = 82375
+        size = 74137
     }
 
     aristocrats = {
         culture = siberian
         religion = animist
-        size = 25
+        size = 22
     }
 
     clergymen = {
         culture = siberian
         religion = animist
-        size = 30
+        size = 27
     }
 
     artisans = {
         culture = siberian
         religion = animist
-        size = 100
+        size = 90
     }
 
     soldiers = {
         culture = siberian
         religion = animist
-        size = 20
+        size = 18
     }
 
     farmers = {
         culture = siberian
         religion = animist
-        size = 1925
+        size = 1732
     }
 }
 #Saghalian Oula (62000 POPS)
@@ -10407,61 +10407,61 @@
     aristocrats = {
         culture = manchu
         religion = mahayana
-        size = 1200
+        size = 1080
     }
 
     clergymen = {
         culture = manchu
         religion = mahayana
-        size = 600
+        size = 540
     }
 
     artisans = {
         culture = manchu
         religion = mahayana
-        size = 3050
+        size = 2745
     }
 
     soldiers = {
         culture = manchu
         religion = mahayana
-        size = 625
+        size = 562
     }
 
     farmers = {
         culture = manchu
         religion = mahayana
-        size = 55525
+        size = 49972
     }
 
     aristocrats = {
         culture = siberian
         religion = animist
-        size = 20
+        size = 18
     }
 
     clergymen = {
         culture = siberian
         religion = animist
-        size = 20
+        size = 18
     }
 
     artisans = {
         culture = siberian
         religion = animist
-        size = 50
+        size = 45
     }
 
     soldiers = {
         culture = siberian
         religion = animist
-        size = 10
+        size = 9
     }
 
     farmers = {
         culture = siberian
         religion = animist
-        size = 900
+        size = 810
     }
 }
 #Sakhalin-Kurile Region (16200)

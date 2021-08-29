@@ -1,5 +1,5 @@
-owner = ICL
-controller = ICL
+owner = DEN
+controller = DEN
 add_core = CAN
 add_core = NEW
 trade_goods = iron

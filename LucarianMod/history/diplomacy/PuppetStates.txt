@@ -122,7 +122,14 @@ vassal = {
 	first = AND
 	second = AQU
 	start_date = 1836.1.1
-	end_date = 1850.1.1 #Treaty of Shimonoseki
+	end_date = 1860.1.1 #Treaty of Shimonoseki
+}
+
+vassal = {
+	first = AND
+	second = TOU
+	start_date = 1836.1.1
+	end_date = 1860.1.1 #Treaty of Shimonoseki
 }
 
 #vassal = {

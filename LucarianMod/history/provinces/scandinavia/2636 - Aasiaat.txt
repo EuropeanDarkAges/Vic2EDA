@@ -1,7 +1,5 @@
-owner = ICL
-controller = ICL
-add_core = DEN
-add_core = SCA
+owner = BRG
+controller = BRG
 trade_goods = fish
 life_rating = 35
 colonial = 2

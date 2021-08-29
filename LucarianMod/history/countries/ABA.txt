@@ -4,13 +4,14 @@
 
 capital = 926
 primary_culture = bedouin
+culture = mashriqi
 religion = sunni
 government = absolute_monarchy
 plurality = 10
 nationalvalue = nv_order
-literacy = 0.5
+literacy = 0.60
+non_state_culture_literacy = 0.40
 civilized = yes 
-prestige = 1
 schools = traditional_academic
 oob = "ABA.txt"
 prestige = 20

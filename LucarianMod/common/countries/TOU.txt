@@ -2,7 +2,7 @@
 
 #========================= H E A D E R =========================
 
-color = { 138  43  226 }
+color = { 0  121  0 }
 graphical_culture = FrenchGC
 
 

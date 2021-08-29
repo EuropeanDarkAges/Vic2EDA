@@ -1,5 +1,5 @@
-owner = CUB
-controller = CUB
+owner = MAY
+controller = MAY
 add_core = UCA
 add_core = GUA
 trade_goods = fruit

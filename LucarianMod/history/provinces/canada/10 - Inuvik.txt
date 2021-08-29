@@ -1,3 +1,5 @@
+owner = PAP
+controller = PAP
 add_core = CAN
 trade_goods = grain
 life_rating = 15

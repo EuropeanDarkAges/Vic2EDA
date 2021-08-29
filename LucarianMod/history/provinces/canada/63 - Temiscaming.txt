@@ -1,5 +1,5 @@
-owner = ICL
-controller = ICL
+owner = CEE
+controller = CEE
 add_core = CAN
 add_core = QUE
 trade_goods = cattle

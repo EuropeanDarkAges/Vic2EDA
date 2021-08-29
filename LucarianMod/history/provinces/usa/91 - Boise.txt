@@ -1,5 +1,5 @@
-owner = AMS
-controller = AMS
+owner = MEX
+controller = MEX
 add_core = USA
 colonial = 2
 1861.1.1 = {

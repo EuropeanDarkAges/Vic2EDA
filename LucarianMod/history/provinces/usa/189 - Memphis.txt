@@ -1,5 +1,5 @@
-owner = TEX
-controller = TEX
+owner = SIO
+controller = SIO
 add_core = USA
 trade_goods = cotton
 life_rating = 35

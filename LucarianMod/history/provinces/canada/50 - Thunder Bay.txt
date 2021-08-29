@@ -1,5 +1,5 @@
-owner = AMS
-controller = AMS
+owner = IRO
+controller = IRO
 add_core = CAN
 trade_goods = cattle
 life_rating = 35

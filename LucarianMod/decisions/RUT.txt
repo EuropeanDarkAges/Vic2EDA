@@ -1,0 +1,72 @@
+political_decisions = {
+
+
+	
+
+	
+	baltic_dominance = {
+		potential = {
+			tag = RUT
+			NOT = {
+				has_country_flag = ruthenian_baltic
+			}
+		}
+		
+		allow = {
+			OR = {
+				is_greater_power = yes
+				is_secondary_power = yes
+			}
+		}
+		
+		effect = {
+			set_country_flag = ruthenian_baltic
+			359 = {
+				add_core = RUT
+			}
+			358 = {
+				add_core = RUT
+			}
+			357 = {
+				add_core = RUT
+			}
+			356 = {
+				add_core = RUT
+			}
+			355 = {
+				add_core = RUT
+			}
+			354			= {
+				add_core = RUT
+			}
+			353			= {
+				add_core = RUT
+			}
+			351 = {
+				add_core = RUT
+			}
+			349 = {
+				add_core = RUT
+			}
+			350 = {
+				add_core = RUT
+			}
+			352 = {
+				add_core = RUT
+			}
+			
+			casus_belli = {
+				target = EST
+				type = annex_core_country
+				months = 60
+			}
+			casus_belli = {
+				target = LAT
+				type = annex_core_country
+				months = 60
+			}
+		}
+		
+		
+	}
+}

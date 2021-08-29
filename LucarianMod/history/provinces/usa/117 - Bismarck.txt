@@ -1,2 +1,3 @@
-owner = AMS
-controller = AMSadd_core = USAtrade_goods = coallife_rating = 35colony = 21861.1.1 = {	colony = 0	}
+owner = SIO
+controller = SIO
+add_core = USAtrade_goods = coallife_rating = 35colony = 21861.1.1 = {	colony = 0	}

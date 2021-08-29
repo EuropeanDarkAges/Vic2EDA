@@ -137,7 +137,7 @@ base_values = {
 war = {
 	max_war_exhaustion = 100			#base max at war.
 	supply_consumption = -0.5
-	#war_exhaustion = 0.1
+	#war_exhaustion = 0.2
 	badboy = -0.033
 }
 
@@ -145,7 +145,7 @@ peace = {
 	max_war_exhaustion = 50			#base max at peace.
 	supply_consumption = -0.5
 	war_exhaustion = -1
-	badboy = -0.1
+	badboy = -0.4
 }
 
 disarming = {
@@ -174,6 +174,7 @@ bad_debter = {
 }
 
 great_power = {
+	influence = 0.5
 	prestige = 0.05
 	research_points = 1.5
 	diplomatic_points_modifier = 1.0

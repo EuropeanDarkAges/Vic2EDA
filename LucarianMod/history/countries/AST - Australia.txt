@@ -1,5 +1,5 @@
 capital = 2468
-primary_culture = british
+primary_culture = australian
 religion = protestant
 government = democracy
 plurality = 0.98
